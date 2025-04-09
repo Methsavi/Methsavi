@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello! i'm Savindya This is About Me:
 🔭 I’m currently working on:<br>A mobile app for bus seat booking and live tracking using React Native and Expo Router, integrated with Redux and a custom backend API.<br><br>👯 I’m looking to collaborate on:<br>Mobile app development projects (especially React Native), UI/UX design, or any innovative ideas in transport tech or education tech.<br><br>🤝 I’m looking for help with:<br>Backend optimization, advanced Redux patterns, and improving user experience in real-time tracking features.<br><br>🌱 I’m currently learning:<br>Advanced Flutter animations, system design concepts, and exploring DevOps tools like Docker and CI/CD for mobile apps.<br><br>💬 Ask me about:<br>React Native, Firebase, Flutter, building academic tracking apps, or turning cool ideas into MVPs!<br><br>⚡ Fun fact:<br>I love building apps that solve real-world problems—and I’ve designed everything from education trackers to city bus apps 🚍📱✨
 
 
