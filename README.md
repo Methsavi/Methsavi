@@ -8,11 +8,9 @@
 
 🔭 I’m currently working on:<br>A mobile app for bus seat booking and live tracking using React Native and Expo Router, integrated with Redux and a custom backend API.<br><br>👯 I’m looking to collaborate on:<br>Mobile app development projects (especially React Native), UI/UX design, or any innovative ideas in transport tech or education tech.<br><br>🤝 I’m looking for help with:<br>Backend optimization, advanced Redux patterns, and improving user experience in real-time tracking features.<br><br>🌱 I’m currently learning:<br>Advanced Flutter animations, system design concepts, and exploring DevOps tools like Docker and CI/CD for mobile apps.<br><br>💬 Ask me about:<br>React Native, Firebase, Flutter, building academic tracking apps, or turning cool ideas into MVPs!<br><be>
 
-⚡ Fun Fact
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F700FF&width=500&lines=I+turn+city+buses+into+digital+experiences+🚍💻;From+classrooms+to+bus+routes+-+I+code+it+all+📚➡️📱;UI%2FUX+magician+by+day%2C+bug+slayer+by+night+✨🐞" alt="Fun Facts" /> </p><div align="center">
-Snake animation
+⚡ Fun fact:
+I love building apps that solve real-world problems—and I’ve designed everything from education trackers to city bus apps 🚍📱✨
 
-</div><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Methsavi/count.svg" /> </p> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_meth_savi_19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/methmi-savindya-b51586270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:0407mshm@gmail.com) 
