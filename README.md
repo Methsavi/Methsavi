@@ -1,7 +1,7 @@
 # 💫 Hello! I'm Savindya 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Transport+Tech+Innovator" alt="Animated Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver" alt="Animated Typing" />
 </div>
 
 ## 🚀 About Me
