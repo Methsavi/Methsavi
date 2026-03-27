@@ -1,97 +1,45 @@
-<!-- HEADER -->
-<h1 align="center">✨ Hey, I'm Savindya 👩‍💻</h1>
-
-<p align="center">
-  💡 Mobile App Developer • UI/UX Designer • Problem Solver
-</p>
+# 💫 Hello! I'm Savindya 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=800&color=F78AFF&center=true&vCenter=true&width=650&lines=Designing+Meaningful+Experiences;Building+Smart+Mobile+Apps;Turning+Ideas+into+Reality+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;UI%2FUX+Problem+Solver" alt="Animated Typing" />
 </div>
 
----
+## 🚀 About Me
 
-## 🌸 About Me
+🔭 I’m currently working on:<br>A mobile app for bus seat booking and live tracking using React Native and Expo Router, integrated with Redux and a custom backend API.<br><br>👯 I’m looking to collaborate on:<br>Mobile app development projects (especially React Native), UI/UX design, or any innovative ideas in transport tech or education tech.<br><br>🤝 I’m looking for help with:<br>Backend optimization, advanced Redux patterns, and improving user experience in real-time tracking features.<br><br>🌱 I’m currently learning:<br>Advanced Flutter animations, system design concepts, and exploring DevOps tools like Docker and CI/CD for mobile apps.<br><br>💬 Ask me about:<br>React Native, Firebase, Flutter, building academic tracking apps, or turning cool ideas into MVPs!<br><be>
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+⚡ Fun fact:
 
-✨ Passionate about building **real-world mobile solutions**  
-🚍 Currently developing a **bus seat booking & live tracking app**  
-🎨 Love combining **UI/UX design + development**  
-🌱 Learning **Flutter animations & system design**  
-⚡ Exploring **DevOps (Docker + CI/CD)**  
+I love building apps that solve real-world problems—and I’ve designed everything from education trackers to city bus apps 🚍📱✨
 
-💬 Ask me about:
-> React Native • Flutter • Firebase • UI/UX • MVP Development  
 
-💖 Fun Fact:  
-I love turning ideas into real apps—from **education trackers** to **smart transport systems** 🚀  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_meth_savi_19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/methmi-savindya-b51586270/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:0407mshm@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-## 🌐 Connect With Me
+<center>
+  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Methsavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Methsavi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Methsavi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <a href="https://instagram.com/_meth_savi_19">
-    <img src="https://img.shields.io/badge/Instagram-F78AFF?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/methmi-savindya-b51586270/">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:0407mshm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</center>
+<center>
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Methsavi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 💻 Tech Stack
+</center>
 
-<div align="center">
+<center>
 
-<img src="https://skillicons.dev/icons?i=java,php,html,css,dart,flutter,firebase,nodejs,nextjs,git,github,c,cpp,cs,dotnet&theme=dark" />
-
-</div>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Methsavi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
+</center>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Methsavi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Methsavi&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Methsavi&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Methsavi&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Methsavi&theme=onestar&no-frame=true&row=1&margin-w=10" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Methsavi&icon=5&color=12"/>
-</p>
-
----
-
-<p align="center">
-  ✨ <i>“Build with passion. Design with purpose.”</i> ✨
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
