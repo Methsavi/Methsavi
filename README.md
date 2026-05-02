@@ -16,7 +16,7 @@
 ⚡ Exploring **DevOps (Docker + CI/CD)**  
 
 💬 Ask me about:
-> React Native • Flutter • Firebase • UI/UX • MVP Development  
+> React Native • Flutter • MongoDB • UI/UX • MVP Development  
 
 💖 Fun Fact:  
 I love turning ideas into real apps—from **education trackers** to **smart transport systems** 🚀  
